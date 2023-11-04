@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TailorMeWebApi", "TailorMeWebApi\TailorMeWebApi.csproj", "{8029BA33-55CB-4685-80BA-F3CDE4881FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8029BA33-55CB-4685-80BA-F3CDE4881FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8029BA33-55CB-4685-80BA-F3CDE4881FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8029BA33-55CB-4685-80BA-F3CDE4881FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8029BA33-55CB-4685-80BA-F3CDE4881FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC0B125-8F82-4595-85A6-79F0273CE440}
+	EndGlobalSection
+EndGlobal
