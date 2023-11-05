@@ -18,5 +18,7 @@ namespace TailorMeWebApi.Models
 
         [JsonPropertyName("HipMeasurement")]
         public float? HipMeasurement { get; set; }
+
+        public List<BrandSize>? Sizes { get; set; }
     }
 }
